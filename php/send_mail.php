@@ -1,5 +1,5 @@
 <?php
-$name = $_POST['name'];
+$name = $_POST['fname'];
 $email = $_POST['email'];
 $comment = $_POST['comment'];
 $toEmail = "daniel_aguiar_alves@hotmail.com";
